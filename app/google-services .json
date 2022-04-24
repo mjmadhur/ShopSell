@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087752562187",
+    "project_id": "shop-sell",
+    "storage_bucket": "shop-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087752562187:android:3b01a6f45436db207ec90e",
+        "android_client_info": {
+          "package_name": "com.example.shopsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087752562187-52stl42f8ehbnt7lunit6ak6gmcilhqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsell",
+            "certificate_hash": "13431e8ca2f3d12f96e06c1a2b7b8172861bb160"
+          }
+        },
+        {
+          "client_id": "1087752562187-40jr1a6i02nd640gpqubal5rbfnp3vu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZmd3K8WTlnpUP1eGeIir0fUY5-mR3LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087752562187-40jr1a6i02nd640gpqubal5rbfnp3vu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
